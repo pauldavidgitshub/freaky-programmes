@@ -1,2 +1,2 @@
-# simple-interest
+# pauls c assngmnts
 to find simple interest
